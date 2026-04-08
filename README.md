@@ -229,7 +229,7 @@ python network_scan_v2.py 192.168.1.1 --export all -o my_scan
 ## 🎯 Recomendações
 
 - **Produção**: Use `network_scan_v2.py` (mais robusto)
-- **Quick scan**: Use `network_scan.py` (mais rápido, suficiente para testes)
+- **Quick scan**: Use `network_scan_v1.py` (mais rápido, suficiente para testes)
 - **Desenvolvimento**: Ambos têm bom logging para debug
 
 ---
